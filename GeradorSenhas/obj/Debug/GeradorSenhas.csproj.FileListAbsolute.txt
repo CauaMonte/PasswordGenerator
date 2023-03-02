@@ -1,0 +1,11 @@
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.exe.config
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.exe
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.pdb
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.AssemblyReference.cache
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.Form1.resources
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.Properties.Resources.resources
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.GenerateResource.cache
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.CoreCompileInputs.cache
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.exe
+C:\Users\cauam\OneDrive\Documentos\CSharp\Projeto 1\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.pdb
